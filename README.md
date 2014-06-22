@@ -1,4 +1,0 @@
-datasciencecoursera
-===================
-
-datascience coursera projetc
